@@ -13,3 +13,8 @@ To use this program:
 - Answer the questions asked
 - The markdown will be created
 
+## Link
+
+The following is the link to the video showing how the project works:
+
+https://drive.google.com/file/d/1gPvkCYA-s8t3Lf5ZqgTFig_v3QAGJ1Oh/view
